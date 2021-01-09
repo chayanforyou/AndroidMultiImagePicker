@@ -1,5 +1,6 @@
 [![](https://jitpack.io/v/chayanforyou/AndroidMultiImagePicker.svg)](https://jitpack.io/#chayanforyou/AndroidMultiImagePicker)
 [![minSdkVersion](https://img.shields.io/badge/minSdk-15-blue)](/library/build.gradle)
+[![](https://img.shields.io/badge/Android%20Arsenal-Multimager-orange.svg?style=flat-square)]
 
 # AndroidMultiImagePicker
 Multi Image Picker and Multi Image Capture Demo app
