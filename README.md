@@ -66,8 +66,10 @@ Add the dependencies to the app level build.gradle
     }
 
 # Default style
-The default style is green, but it can be modified with any set colors. One for normal state and another for pressed state.
+The default style is red, but it can be modified with any set colors. One for normal state and another for pressed state.
 ```setViewsColorStateList()``` in Utils class will do the job.
+
+See [sample](https://github.com/chayanforyou/AndroidMultiImagePicker/blob/master/library/app-release.apk) app for more information.
 
 # Credits
 This library is modification of [Multimager by Vansi Krishna](https://github.com/vansikrishna/Multimager).
