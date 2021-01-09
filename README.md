@@ -1,4 +1,5 @@
 [![](https://jitpack.io/v/chayanforyou/AndroidMultiImagePicker.svg)](https://jitpack.io/#chayanforyou/AndroidMultiImagePicker)
+[![minSdkVersion](https://img.shields.io/badge/minSdk-15-blue)](/library/build.gradle)
 
 # AndroidMultiImagePicker
 Multi Image Picker and Multi Image Capture Demo app
@@ -67,6 +68,26 @@ Add the dependencies to the app level build.gradle
 # Default style
 The default style is green, but it can be modified with any set colors. One for normal state and another for pressed state.
 ```setViewsColorStateList()``` in Utils class will do the job.
-	
-# Declaimer
-This library is developed and modified from this ![library](https://github.com/vansikrishna/Multimager).
+
+# Credits
+This library is modification of [Multimager by Vansi Krishna](https://github.com/vansikrishna/Multimager).
+
+# Licenses
+```
+Copyright 2021 Chayan Mistry.
+
+Licensed to the Apache Software Foundation (ASF) under one or more contributor
+license agreements.  See the NOTICE file distributed with this work for
+additional information regarding copyright ownership.  The ASF licenses this
+file to you under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License.  You may obtain a copy of
+the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+License for the specific language governing permissions and limitations under
+the License.
+```
