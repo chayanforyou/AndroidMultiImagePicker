@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="themeColor">#F44336</color>
+    <color name="statusBarColor">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#50a3ec</color>
+    <color name="black">#000000</color>
+    <color name="custom_progress_bg_color">#EEEEEE</color>
+    <color name="custom_progress_message_color">#6D6D6D</color>
+    <color name="image_selected">#96dde238</color>
+
+</resources>
